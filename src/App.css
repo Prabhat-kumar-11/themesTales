@@ -1,0 +1,40 @@
+/* Add this CSS to your existing styles or create a new CSS file */
+.ant-table-wrapper {
+  margin-top: 20px;
+}
+
+.ant-table {
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+.ant-table-thead > tr > th {
+  background-color: #1890ff;
+  color: #fff;
+}
+
+.ant-tag {
+  margin-bottom: 4px;
+}
+
+.ant-pagination {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.ant-pagination-item-active a {
+  color: #1890ff;
+  border-color: #1890ff;
+}
+
+.ant-pagination-item a {
+  color: #333;
+}
+
+.ant-pagination-item-active a:hover {
+  border-color: #1890ff;
+}
+
+.ant-pagination-item a:hover {
+  color: #1890ff;
+}
