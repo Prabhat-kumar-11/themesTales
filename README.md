@@ -1,8 +1,25 @@
-# React + Vite
+# Themes Tales
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple blog website where users can read posts and filter them by tags.
 
-Currently, two official plugins are available:
+## Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+https://themetales.vercel.app/?page=1
+
+## Features
+
+- Search posts by title or body
+- Filter posts by tags
+- Pagination
+
+## Tech Stack
+
+- React
+- Vite
+- Ant Design
+- Axios
+- React Router
+
+## Screenshot
+
+![image](./src/assets/Screenshot%202024-05-03%20085933.png)
